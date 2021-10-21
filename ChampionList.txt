@@ -1,0 +1,157 @@
+Aatrox	Juggernaut
+Ahri	Burst
+Akali	Assassin
+Akshan	Marksman
+Alistar	Vanguard
+Amumu	Vanguard
+Anivia	Battlemage
+Annie	Burst
+Aphelios	Marksman
+Ashe	Marksman
+Aurelion sol	Battlemage
+Azir	Specialist
+Bard	Catcher
+Blitzcrank	Catcher
+Brand	Burst
+Braum	Warden
+Caitlyn	Marksman
+Camille	Diver
+Cassiopeia	Battlemage
+Cho'gath	Vanguard
+Corki	Marksman
+Darius	Juggernaut
+Diana	Diver
+Dr. Mundo	Juggernaut
+Draven	Marksman
+Ekko	Assassin
+Elise	Diver
+Evelynn	Assassin
+Ezreal	Marksman
+Fiddlesticks	Specialist
+Fiora	Skirmisher
+Fizz	Assassin
+Galio	Warden
+Gangplank	Specialist
+Garen	Juggernaut
+Gnar	Specialist
+Gragas	Vanguard
+Graves	Specialist
+Gwen	Skirmisher
+Hecarim	Diver
+Heimerdinger	Specialist
+Illaoi	Juggernaut
+Irelia	Diver
+Ivern	Catcher
+Janna	Enchanter
+Jarvan IV	Diver
+Jax	Skirmisher
+Jayce	Artillery Mage
+Jhin 	Marksman
+Jinx	Marksman
+Kai'sa	Marksman
+Kalista	Marksman
+Karma	Enchanter
+Karthus	Battlemage
+Kassasin	Assassin
+Katarina	Assassin
+Kayle	Specialist
+Kayn	Skirmisher
+Kennen	Specialist
+Kha'zix	Assassin
+Kindred	Marksman
+Kled	Skirmisher
+Kog'maw	Marksman
+Leblanc	Burst
+Lee Sin	Diver
+Leona	Vanguard
+Lillia	Skirmisher
+Lissandra	Burst
+Lucian	Marksman
+Lulu	Enchanter
+Lux	Burst
+Malphite	Vanguard
+Malzahar	Battlemage
+Maokai	Vanguard
+Master Yi	Skirmisher
+Miss Fortune	Marksman
+Mordekaiser	Juggernaut
+Morgana	Catcher
+Nami	Enchanter
+Nasus	Juggernaut
+Nautilus	Vanguard
+Neeko	Catcher
+Nidalee	Specialist
+Nocturne	Assassin
+Nunu & Willump	Vanguard
+Olaf	Diver
+Orianna	Burst
+Ornn	Vanguard
+Pantheon	Diver
+Poppy	Warden
+Pyke	Catcher
+Qiyana	Assassin
+Quinn	Specialist
+Rakan	Catcher
+Rammus	Vanguard
+Rek'sai	Diver
+Rell	Vanguard
+Renekton	Diver
+Rengar	Diver
+Riven	Skirmisher
+Rumble	Battlemage
+Ryze	Battlemage
+Samira	Marksman
+Sejuani	Vanguard
+Senna	Enchanter
+Seraphine	Enchanter
+Sett	Juggernaut
+Shaco	Assassin
+Shen	Warden
+Shyvana	Juggernaut
+Singed	Specialist
+Sion	Vanguard
+Sivir	Marksman
+Skarner	Diver
+Sona	Enchanter
+Soraka	Enchanter
+Swain	Battlemage
+Sylas	Burst
+Syndra	Burst
+Tahm Kench	Warden
+Taliyah	Battlemage
+Talon	Assassin
+Taric	Enchanter
+Teemo	Specialist
+Thresh	Catcher
+Tristana	Marksman
+Trundle	Juggernaut
+Tryndamere	Skirmisher
+Twisted Fate	Burst
+Twitch	Marksman
+Udyr	Juggernaut
+Urgot	Juggernaut
+Varus	Artillery Mage
+Vayne	Marksman
+Veigar	Burst
+Vel'koz	Artillery Mage
+Vex	Burst
+Vi	Diver
+Viego	Skirmisher
+Viktor	Battlemage
+Vladimir	Battlemage
+Volibear	Juggernaut
+Warwick	Diver
+Wukong	Diver
+Xayah	Marksman
+Xerath	Artillery Mage
+Xin Zhao	Diver
+Yasuo	Skirmisher
+Yone	Assassin
+Yorick	Juggernaut
+Yuumi	Enchanter
+Zac	Vanguard
+Zed	Assassin
+Ziggs	Artillery Mage
+Zilean	Specialist
+Zoe	Burst
+Zyra	Catcher
