@@ -1,13 +1,13 @@
-Assassin, B, S, D, C, A
-Skirmisher, B, B, C, D, S
-Diver, A, S, B, D, B
-Juggernaut, C, B, A, B, S
-Vanguard, S, A, B, C, C
-Warden, B, B, S, S, A
-Catcher, B, S, B, A, C
-Enchanter, C, D, S, S, A
-Artillery Mage, A, B, D, S, D
-Burst, S, S, C, A, C
-Battlemage, A, B, A, A, B
-Marksman, S, C, B, C, B
-Specialist, C, B, A, B, A
+Assassin, 3, 5, 1, 2, 4
+Skirmisher, 3, 3, 2, 1, 5
+Diver, 4, 5, 3, 1, 3
+Juggernaut, 2, 3, 4, 3, 5
+Vanguard, 5, 4, 3, 2, 2
+Warden, 3, 3, 5, 5, 4
+Catcher, 3, 5, 3, 4, 2
+Enchanter, 2, 1, 5, 5, 4
+Artillery Mage, 4, 3, 1, 5, 1
+Burst, 5, 5, 2, 4, 2
+Battlemage, 4, 3, 4, 4, 3
+Marksman, 5, 2, 3, 2, 3
+Specialist, 2, 3, 4, 3, 4
