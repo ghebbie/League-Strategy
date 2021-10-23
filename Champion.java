@@ -1,8 +1,8 @@
 public class Champion {
 	private String name;
-	private ChampionClass cc; // Might need a more informative name for this object
+	private ChampClass cc; // Might need a more informative name for this object
 
-	public Champion(String name, ChampionClass cc){
+	public Champion(String name, ChampClass cc){
 		this.name = name;
 		this.cc = cc;
 	}
@@ -11,7 +11,7 @@ public class Champion {
 		return name;
 	}
 
-	public getClass(){
+	public ChampClass getClass(){
 		return cc;
 	}
 }
