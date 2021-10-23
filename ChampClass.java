@@ -16,6 +16,10 @@ public class ChampClass {
 		this.name = name;
 		comps = new HashMap<>();
 		comps.put("attack", attack);
+		comps.put("catch", catching);
+		comps.put("protect", protect);
+		comps-put("siege", siege);
+		comps.put("split", split);
 	}
 
 	public String getName(){
