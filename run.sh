@@ -1,2 +1,3 @@
 #!/usr/bin/bash
-java Main.java
+./compile.sh
+java -cp classes/ Main

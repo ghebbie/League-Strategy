@@ -11,7 +11,7 @@ public class Champion {
 		return name;
 	}
 
-	public ChampClass getClass(){
+	public ChampClass getklass(){
 		return cc;
 	}
 }

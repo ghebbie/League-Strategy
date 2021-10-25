@@ -42,7 +42,7 @@ public class ClassList{
 		else return 0; //I don't know how to make an error
 	}
 
-	public static ChampClass getClass(String className){
+	public static ChampClass getklass(String className){
 		for(ChampClass c : classes){
 			if(c.getName().equals(className)){
 				return c;
