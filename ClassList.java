@@ -2,9 +2,9 @@ import java.util.*;
 import java.io.File;
 import java.io.FileNotFoundException;
 public class ClassList{
-	public static arraylist<champclass> classes = makeClasses();
+	public static arraylist<champclass> classes = _makeClasses();
 
-	public static ArrayList<ChampClass> makeClasses(){
+	public static ArrayList<ChampClass> _makeClasses(){
 		arraylist<champclass> classes = new ArrayList<>();
 		String fileName = "ClassList.txt";
 		try{
@@ -12,7 +12,7 @@ public class ClassList{
 			Scanner reader = new Scanner(textFile);
 			while(reader.hasNextLine()){
 				String line = reader.nextLine();
-				classes.add(makeClass(line));	
+				classes.add(_makeClass(line));	
 			}	
 			reader.close();
 		} catch(FileNotFoundException){
@@ -21,18 +21,18 @@ public class ClassList{
 		}
 	}
 
-	public static ChampClass makeClass(String line){
+	public static ChampClass _makeClass(String line){
 		String[] data = line.split(", ", 6);
 		String name = data[0];
 		return new ChampClass(data[0],
-				gradeToInt(data[1]),
-				gradeToInt(data[2]),
-				gradeToInt(data[3]),
-				gradeToInt(data[4]),
-				gradeToInt(data[5]),)
+				_gradeToInt(data[1]),
+				_gradeToInt(data[2]),
+				_gradeToInt(data[3]),
+				_gradeToInt(data[4]),
+				_gradeToInt(data[5]),)
 	}
 
-	public static int gradeToInt(String grade){
+	public static int _gradeToInt(String grade){
 		if(grade == "S") return 5;
 		else if(grade == "A") return 4;
 		else if(grade == "B") return 3;
