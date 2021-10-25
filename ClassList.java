@@ -2,7 +2,7 @@ import java.util.*;
 import java.io.File;
 import java.io.FileNotFoundException;
 public class ClassList{
-	public static arraylist<Champclass> classes = _makeClasses();
+	private static arraylist<Champclass> classes = _makeClasses();
 
 	public static ArrayList<ChampClass> _makeClasses(){
 		arraylist<champclass> classes = new ArrayList<>();
