@@ -18,7 +18,7 @@ public class ChampClass {
 		comps.put("attack", attack);
 		comps.put("catch", catching);
 		comps.put("protect", protect);
-		comps-put("siege", siege);
+		comps.put("siege", siege);
 		comps.put("split", split);
 	}
 

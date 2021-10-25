@@ -2,10 +2,10 @@ import java.util.*;
 import java.io.File;
 import java.io.FileNotFoundException;
 public class ClassList{
-	private static arraylist<Champclass> classes = _makeClasses();
+	private static ArrayList<ChampClass> classes = _makeClasses();
 
 	public static ArrayList<ChampClass> _makeClasses(){
-		arraylist<champclass> classes = new ArrayList<>();
+		ArrayList<ChampClass> classes = new ArrayList<>();
 		String fileName = "ClassList.txt";
 		try{
 			File textFile = new File(fileName);
@@ -15,7 +15,8 @@ public class ClassList{
 				classes.add(_makeClass(line));	
 			}	
 			reader.close();
-		} catch(FileNotFoundException){
+			return classes;
+		} catch(FileNotFoundException e){
 			System.out.println("File " + fileName + " not Found");
 			return null;
 		}
@@ -29,7 +30,7 @@ public class ClassList{
 				_gradeToInt(data[2]),
 				_gradeToInt(data[3]),
 				_gradeToInt(data[4]),
-				_gradeToInt(data[5]),)
+				_gradeToInt(data[5]));
 	}
 
 	public static int _gradeToInt(String grade){
@@ -47,5 +48,7 @@ public class ClassList{
 				return c;
 			}
 		}
+		System.out.println("Could not find " + className);
+		return null;
 	}	
 }
