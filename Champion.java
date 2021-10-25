@@ -11,7 +11,7 @@ public class Champion {
 		return name;
 	}
 
-	public ChampClass getklass(){
+	public ChampClass getChampClass(){ //getClass() is reserved
 		return cc;
 	}
 }
