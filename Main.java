@@ -1,8 +1,8 @@
 class Main{
-    public static void main(String[] args) {
+    public static void main(String[] args) { //Right now this method is used for testing
 	print("Let's see if we can print the Juggernaut class:");	    
 	ChampClass c = ClassList.getClass("Juggernaut");
-	print(c.getName() + ": ");
+	print(c.getName() + ": " + c.getComps());
     }
 
     public static void print(String s){
