@@ -25,4 +25,8 @@ public class ChampClass {
 	public String getName(){
 		return name;
 	}
+
+	public HashMap<String, Integer> getComps(){
+		return comps;
+	}
 }
