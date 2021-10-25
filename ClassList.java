@@ -26,20 +26,21 @@ public class ClassList{
 		String[] data = line.split(", ", 6);
 		String name = data[0];
 		return new ChampClass(data[0],
-				_gradeToInt(data[1]),
-				_gradeToInt(data[2]),
-				_gradeToInt(data[3]),
-				_gradeToInt(data[4]),
-				_gradeToInt(data[5]));
+				Integer.parseInt(data[1]),
+				Integer.parseInt(data[2]),
+				Integer.parseInt(data[3]),
+				Integer.parseInt(data[4]),
+				Integer.parseInt(data[5]));
 	}
 
-	public static int _gradeToInt(String grade){
+	public static int _gradeToInt(String grade){ 
+		// This method is redundant now, will probably be deleted soon
 		if(grade == "S") return 5;
 		else if(grade == "A") return 4;
 		else if(grade == "B") return 3;
 		else if(grade == "C") return 2;
 		else if(grade == "D") return 1;
-		else return 0; //I don't know how to make an error
+		else return -1000; //I don't know how to make an error
 	}
 
 	public static ChampClass getklass(String className){
