@@ -2,7 +2,7 @@ import java.util.*;
 import java.io.File;
 import java.io.FileNotFoundException;
 public class ClassList{
-	public static arraylist<champclass> classes = _makeClasses();
+	public static arraylist<Champclass> classes = _makeClasses();
 
 	public static ArrayList<ChampClass> _makeClasses(){
 		arraylist<champclass> classes = new ArrayList<>();
@@ -40,4 +40,12 @@ public class ClassList{
 		else if(grade == "D") return 1;
 		else return 0; //I don't know how to make an error
 	}
+
+	public static ChampClass getClass(String className){
+		for(ChampClass c : classes){
+			if(c.getName().equals(className)){
+				return c;
+			}
+		}
+	}	
 }
